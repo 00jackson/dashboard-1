@@ -1,6 +1,5 @@
 Here's a basic `README.md` file template for your React project, explaining how to run the project locally:
 
-```markdown
 # React Dashboard Project
 
 This project is a customizable dashboard built with React, utilizing components like categories, widgets, and a modal dialog for adding new widgets.
@@ -26,22 +25,21 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
-
-   ```bash
+```bash
    git clone https://github.com/your-username/your-repository-name.git
-   ```
+```
 
 2. **Navigate to the project directory**:
-
-   ```bash
+ ```bash
    cd your-repository-name
-   ```
+```
 
 3. **Install the dependencies**:
 
-   ```bash
+```bash
    npm install
-   ```
+```
+
 
 ## Running the Project
 
@@ -75,7 +73,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
 
 ### Steps to Save
 
